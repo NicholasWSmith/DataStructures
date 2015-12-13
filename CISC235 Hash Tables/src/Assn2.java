@@ -13,6 +13,11 @@ import java.util.List;
 import java.util.Scanner;
 
 
+/*
+	Nicholas Smith, Queen's University
+
+*/
+
 public class Assn2 {
 
 	String[] theArray;

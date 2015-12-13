@@ -2,10 +2,7 @@ import java.util.Scanner;
 
 
 /*
- *  “I confirm that this
-	submission is my own work and is consistent with the Queen's regulations on Academic
-	Integrity.”
-	10098522, 12nws
+ *  Nicholas Smith, Queen's University 
  */
 
 class Neighbor {

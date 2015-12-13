@@ -1,8 +1,6 @@
 /**
  * 
- * 10098522, 12nws, Nicholas Smith
- *	I confirm that this submission is my own work and is consistent with the Queen's regulations on Academic Integrity
- *
+ *	Nicholas Smith, Queen's Univeristy
  *
  */
 

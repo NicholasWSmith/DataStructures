@@ -1,7 +1,10 @@
 import java.util.Random;
 import java.util.Scanner;
 import java.util.Timer;
+/*
+	Nicholas Smith, Queen's University
 
+*/
 
 public class BinandTrinSearch {
 	public static int mid;
